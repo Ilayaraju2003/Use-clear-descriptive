@@ -86,7 +86,7 @@ to maintain layout consistency on larger screens.
 1. Download or clone the repository
 
 ```bash
-git clone [<your-repository-link>](https://github.com/Ilayaraju2003/Use-clear-descriptive/tree/main)
+git clone https://github.com/Ilayaraju2003/Use-clear-descriptive/tree/main
 ```
 
 2. Open the project folder
